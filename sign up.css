@@ -8,8 +8,8 @@ body{
    float: left;
     background-image: url(logo.jpg);
     background-size: cover;
-    width: 17%;
-    height: 17vh;
+    width: auto;
+    height: auto;
     margin-right: 20%;
     border-radius: 70px;
 
